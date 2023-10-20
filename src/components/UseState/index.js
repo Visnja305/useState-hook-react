@@ -1,5 +1,5 @@
 import './UseState.css';
-
+import { useState } from 'react';
 const UseState = () => {
   return (
     <div className="state">
